@@ -41,7 +41,7 @@ The goal for this sample is to demonstrate some of the principles and patterns d
 - Development Process for Azure-Hosted ASP.NET Core Apps
 - Azure Hosting Recommendations for ASP.NET Core Web Apps
 
-## Running the sample
+## Running the sample...
 
 The store's home page should look like this:
 
